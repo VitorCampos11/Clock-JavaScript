@@ -4,7 +4,8 @@
 <h1 align="center">
 	
 
-  <img width="400px" src="https://user-images.githubusercontent.com/73002258/109803591-fe676d00-7bff-11eb-8fa5-75bda01d1025.png" />
+  <img width="400px" src="https://user-images.githubusercontent.com/73002258/109803755-2fe03880-7c00-11eb-99da-7873c4b06d92.png
+" />
   <br />
   <a href="https://www.linkedin.com/in/gvitorf/">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Vitor-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
